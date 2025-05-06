@@ -16,4 +16,4 @@ A simple Python script that implements the **Caesar cipher**. You can encrypt an
 3. Navigate to the folder where `caesar_cipher.py` is located.
 4. Run the script with:
 ```bash
-python caesar-cipher.py
+caesar-cipher.py
